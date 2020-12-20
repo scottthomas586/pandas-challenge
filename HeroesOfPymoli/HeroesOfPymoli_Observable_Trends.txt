@@ -1,0 +1,9 @@
+Three observable trends based on the data:
+
+1) The Age Group of 40+ contain the smallest percentage of purchasers.  I wouldn't spend a lot of resources (time and $) marketing to this demographic.
+
+2) Females are only 14% of the percentage of players but have a greater average purchase price than males by $.18, $3.20 vs $3.02.  Other / Non-Disclosed gender actually had the greatest average purchase price of $3.35.
+
+3) The most popular item was also the most profitable.  
+
+4) The age group with the highest average purchase price was from 35-39.  This might suggest that they have the highest discretionary income.
